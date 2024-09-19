@@ -9,11 +9,11 @@ import { getStorage } from "firebase/storage";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyDVItin8lFq7XN7II55Fp4_GD2T_ec9gXA",
-  authDomain: "fb-clone-yt-57e64.firebaseapp.com",
-  projectId: "fb-clone-yt-57e64",
-  storageBucket: "fb-clone-yt-57e64.appspot.com",
-  messagingSenderId: "756109957764",
-  appId: "1:756109957764:web:51bf61e9a3a1cd369700d1",
+  authDomain: "wakarfb-84dfb.firebaseapp.com",
+  projectId: "wakarfb-84dfb",
+  storageBucket: "wakarfb-84dfb.appspot.com",
+  messagingSenderId: "39272730214",
+  appId: "1:39272730214:web:2c8da0349c056b538a27a7",
 };
 
 // Initialize Firebase
